@@ -13,11 +13,11 @@
 - 🎓 <b>I’m currently studying ... </b></br>
       Cybersecurity student at Amsterdam University of Applied Sciences.
 - 🧪 <b>I'm currently working on ... </b></br> 
-      my personal site.
+      My personal site.
 - 🧠 <b>I'm currently learning about ... </b></br>
-      python, security, backend technologies, linux, databases, and SQL.
+      Python, Security, Backend technologies, Linux, Databases, and SQL.
 - 🔎 <b>I’m currently looking for ... </b></br>
-      Cybersecurity New Grad Positions for 2024.
+      Cybersecurity Internships for 2025.
 - ⚡ <b>Fun facts:</b> </br>
       I like experimenting, stocks and crypto investments, and building stuff.
 
@@ -26,6 +26,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="opencv" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="opencv" width="40" height="40"/></code>
+
 </p>
 
 
