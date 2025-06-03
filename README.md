@@ -2,7 +2,7 @@
 
 <h5 align="center">
 
-<a align="center" href="https://www.linkedin.com/in/#/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> • >
+<a align="center" href="https://www.linkedin.com/in/#/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
 <a href="https://www.leetcode.com/#" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
 <a align="center" href="https://www.instagram.com/#/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
 <a href="https://twitter.com/#" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a>
