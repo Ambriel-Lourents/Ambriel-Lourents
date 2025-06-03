@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phillip-che.visitor-badge">
-
 <h2 align="center">:grin: About Me</h2>
 
 <h5 align="center">
 
-<!-- <a align="center" href="https://www.linkedin.com/in/#/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> • > -->
+<a align="center" href="https://www.linkedin.com/in/#/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> • >
 <a href="https://www.leetcode.com/#" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
 <a align="center" href="https://www.instagram.com/#/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
 <a href="https://twitter.com/#" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a>
@@ -33,5 +31,5 @@
 
 <h2 align="center">:bar_chart: Github Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambriel-lourents&theme=radical&line_height=27&hide=glsl,python" alt="Ambriels's Github Stats" /></p>
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ambriel-lourents&theme=dark&background=141321" alt="Phillip's Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-git-master-ambriels-projects-602b76a4.vercel.app/api/top-langs/?username=ambriel-lourents&theme=radical&line_height=27&hide=glsl,python" alt="Ambriels's Github Stats" /></p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ambriel-lourents&theme=dark&background=141321" alt="Ambriels's Github Stats" /></p>
