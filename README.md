@@ -11,15 +11,15 @@
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" height="auto" />
 
 - 🎓 <b>I’m currently studying ... </b></br>
-      Cybersecurity student at Amsterdam University of Applied Sciences.
+      Cybersecurity at the Amsterdam University of Applied Sciences.
 - 🧪 <b>I'm currently working on ... </b></br> 
       My personal site.
 - 🧠 <b>I'm currently learning about ... </b></br>
-      Python, Security, Backend technologies, Linux, Databases, and SQL.
+      Python, Javascript, API's, Backend technologies, Linux, Databases and SQL.
 - 🔎 <b>I’m currently looking for ... </b></br>
-      Cybersecurity Internships for 2025.
+      .
 - ⚡ <b>Fun facts:</b> </br>
-      I like experimenting, stocks and crypto investments, and building stuff.
+      I like experimenting, stock and crypto investments and building stuff.
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
